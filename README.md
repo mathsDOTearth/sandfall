@@ -7,3 +7,4 @@ Move mouse and press left mouse button to distribute sand.
 Press `Spacebar` to open drain plug.  
 Press `B` to see the bounding box for active screen area.  
 
+Run with `cargo run -r` for best results.
