@@ -14,7 +14,7 @@ pub const WIDTH: usize = 1200;
 pub const HEIGHT: usize = 800;
 
 const SAND: Pixel = Pixel { r: 194, g: 178, b: 128, a: 255 };
-const SPAWN_RADIUS: usize = 6;
+const SPAWN_RADIUS: usize = 16;
 const TRIES_PER_FRAME: usize = 25;
 
 const DRAIN_X: usize = WIDTH / 2;
