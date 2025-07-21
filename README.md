@@ -1,5 +1,7 @@
 # sandfall
-A graphical falling sand simulation written in Rust using minifg, unirand and rayon crates.
+A graphical falling sand simulation written in Rust using minifb, unirand and rayon crates.
+
+main.rs is the sim code, render.rs is helper functions I have written to add 2d functions to minifb.
 
 Written by Rich of mathsDOTearth.
 
